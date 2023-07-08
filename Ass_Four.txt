@@ -1,0 +1,21 @@
+4. interface in java is a class which can have static constants and abstract methods.
+It cannot have concrete methods and it can be used to specify the service requirement specifications(SRS)
+
+5.By making the use of interface we can ensure that we implement all the reauired features this can be done by implementing the
+interface. implements is the keywors used to implement the interface.
+We can also acheive loose coupling by making  use of interface.
+
+6.Lambda expression in java can be used to implement the functional interface.
+An interface is said to be functional interface if it has only one abstract method and we write lambda expression
+to implement that interface in a specifice syntax.
+It saves a lot of code. In case of lambda expression, we don't need to define the method again for providing the implementation. 
+Here, we just write the implementation code.
+
+7. yes we can pass a lambda expression to another method when the method is accepting a parameter of type functional interface.
+
+8.An interface is said to be functional interface if it has only one abstract method and it can have any number of default methods and
+ static methods even
+
+9.less coding, efficient way of implementation
+
+10. no it is not mandatory  for lambda expression to have parameters.
